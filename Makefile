@@ -1,4 +1,4 @@
-CC=gcc
+CC=mpicc
 MPICC=mpicc
 CFLAGS=-Wno-unused-parameter -Wno-format-overflow -Wall -Wextra -Werror -g -rdynamic -O3 -msse4.2
 
